@@ -2,3 +2,8 @@
 ---
 
 @import "jekyll-theme-modernist";
+
+.menu {
+  display: flex;
+  gap: 2em;
+}
